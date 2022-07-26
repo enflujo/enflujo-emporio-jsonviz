@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+  background-color: black;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 640px;
+  height: 480px;
+  border: 1px solid #C00;
+}
