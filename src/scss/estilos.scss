@@ -25,3 +25,18 @@ canvas {
   height: 480px;
   border: 1px solid #C00;
 }
+
+.container {
+  margin: auto;
+  text-align: center;
+
+  input {
+    width: 20em;
+  }
+
+  p {
+    display:inline;
+    color: white;
+  }
+  
+}

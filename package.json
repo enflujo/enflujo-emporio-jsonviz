@@ -34,7 +34,8 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.18.6"
+    "@babel/runtime": "^7.18.6",
+    "nouislider": "^15.6.0"
   },
   "browserslist": {
     "production": [
